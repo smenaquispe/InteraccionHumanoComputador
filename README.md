@@ -2,7 +2,7 @@
 ## Asistente de Traducción de Lengua de Señas en Tiempo Real con Cámaras y Detección de Manos
 
 <p align="center">
-  <img src="img/logo_ihc.png" alt="Logo del Proyecto" width="200">
+  <img src="img/img_logo.png" alt="Logo del Proyecto" width="200">
 </p>
 
 ### Realizado por:

@@ -1,5 +1,5 @@
 # Proyecto de Interacción Humano Computador
-## Asistente de Aprendizaje de Lengua de Señas en Tiempo Real con Cámaras y Detección de Manos
+## SignLearn: Aprende Lengua de Señas a Través de Videos
 
 <p align="center">
   <img src="img/img_logo.png" alt="Logo del Proyecto" width="200">
@@ -24,36 +24,36 @@
 ## Etapa 1: Propuesta del Proyecto
 
 ### 1. Introducción
-El aprendizaje del lenguaje de señas sigue siendo un reto para muchas personas oyentes, lo que limita la interacción con personas sordas. Este proyecto, **Asistente de Aprendizaje de Lengua de Señas con Cámara y Detección de Manos**, tiene como objetivo utilizar la visión computacional para asistir en la enseñanza del lenguaje de señas, traduciendo gestos en tiempo real a texto o voz, facilitando el proceso de aprendizaje y la comunicación entre personas oyentes y sordas. El sistema eliminará la necesidad de dispositivos adicionales como guantes inteligentes.
+El aprendizaje del lenguaje de señas sigue siendo un reto para muchas personas oyentes, limitando la interacción con personas sordas. Este proyecto, **Aprende Lengua de Señas a Través de Videos**, tiene como objetivo facilitar el aprendizaje del lenguaje de señas mediante el uso de videos interactivos. Los usuarios podrán subir videos de sus gestos, y el sistema los analizará para proporcionar retroalimentación en tiempo real, ayudando a mejorar la precisión y fluidez de los movimientos.
 
 ### 2. Planteamiento del problema
-El aprendizaje del lenguaje de señas puede ser complejo, especialmente para quienes no tienen acceso a recursos o a un ambiente inmersivo. Las barreras de comunicación dificultan la interacción con personas sordas, especialmente en contextos cruciales como la atención médica o la educación. Este proyecto busca ofrecer una solución accesible y efectiva para aprender el lenguaje de señas mediante cámaras y algoritmos de detección de manos, simplificando el proceso sin dispositivos adicionales.
+Aprender el lenguaje de señas puede ser un desafío, especialmente si no se tiene acceso a un entorno de enseñanza adecuado o a un maestro. Las barreras de comunicación pueden dificultar la práctica y la mejora de los gestos. Este proyecto propone una solución accesible basada en el uso de videos para practicar el lenguaje de señas. El sistema analizará los gestos de los usuarios, brindando retroalimentación precisa sin necesidad de dispositivos adicionales.
 
 ### 3. Objetivos
-El objetivo principal del proyecto es desarrollar un sistema basado en cámaras para facilitar el aprendizaje del lenguaje de señas, convirtiendo gestos en texto o voz en tiempo real. Se emplearán técnicas de visión computacional y detección de manos para garantizar una experiencia fluida y efectiva. Además, el sistema se ajustará según el feedback de los usuarios durante pruebas de usabilidad, con un enfoque en mejorar la experiencia de aprendizaje tanto para personas sordas como oyentes.
+El objetivo principal es desarrollar una aplicación que permita a los usuarios aprender y practicar el lenguaje de señas subiendo videos de sus gestos. A través del análisis de los videos, el sistema proporcionará retroalimentación en tiempo real para ayudar a mejorar la técnica. Además, la aplicación será adaptable y se ajustará según las necesidades del usuario basadas en sus habilidades y progreso.
 
 ### 4. Público Objetivo
 El público objetivo incluye:
 
-- **Personas oyentes**: Quienes desean aprender el lenguaje de señas para mejorar su comunicación con personas sordas en diferentes contextos, como en el trabajo o la vida diaria.
-- **Educadores y estudiantes**: Usuarios interesados en el aprendizaje del lenguaje de señas para fines educativos o profesionales.
+- **Personas oyentes**: Quienes desean aprender el lenguaje de señas para mejorar su comunicación con personas sordas en su vida cotidiana o profesional.
+- **Estudiantes y educadores**: Personas que buscan una herramienta interactiva y accesible para practicar el lenguaje de señas.
 
-El sistema será inclusivo, permitiendo su adopción por personas de diferentes niveles de habilidad tecnológica y edades.
+El sistema está diseñado para ser inclusivo y fácil de usar por personas de todas las edades y niveles de habilidad tecnológica.
 
 ### 5. Qué hará el proyecto
-El sistema utilizará cámaras y algoritmos de visión por computadora para detectar los gestos de las manos, convirtiendo estos gestos en texto o voz en tiempo real, apoyando el aprendizaje del lenguaje de señas. Las principales funcionalidades incluyen:
+La aplicación permitirá a los usuarios aprender el lenguaje de señas de manera interactiva mediante videos. Algunas características clave incluyen:
 
-- **Traducción en tiempo real**: El sistema detectará las manos y traducirá los gestos de manera inmediata.
-- **Interfaz adaptativa**: Los usuarios podrán ajustar la sensibilidad de la detección y la velocidad de la traducción para adaptarse a su ritmo de aprendizaje.
-- **Accesibilidad móvil**: El sistema estará disponible en smartphones y tablets, permitiendo un uso cómodo en diferentes contextos.
-- **Sin dispositivos adicionales**: Solo se requerirá una cámara para su funcionamiento, haciéndolo más accesible y asequible.
+- **Análisis de videos**: Los usuarios podrán subir videos de sus señas, y el sistema analizará los gestos para brindar retroalimentación sobre la precisión de los movimientos.
+- **Traducción y práctica**: Además de analizar los gestos, la aplicación proporcionará traducciones automáticas en tiempo real, permitiendo a los usuarios entender cómo sus señas se transforman en palabras o frases.
+- **Interfaz adaptable**: Los usuarios podrán personalizar la sensibilidad de la retroalimentación y el nivel de dificultad según su progreso.
+- **Portabilidad y accesibilidad**: La aplicación estará disponible en dispositivos móviles, lo que permitirá a los usuarios practicar en cualquier momento y lugar.
 
 ### 6. Análisis de sistemas existentes
-Comparado con aplicaciones como **HandTalk**, que traduce lenguaje de señas mediante un avatar animado, este proyecto se enfoca en el aprendizaje activo, permitiendo a los usuarios aprender de manera más natural y práctica.
+Existen aplicaciones como **HandTalk** que permiten traducir el lenguaje de señas a través de avatares, pero presentan limitaciones en cuanto a la enseñanza y práctica activa. Este proyecto se diferencia al enfocarse en el aprendizaje personalizado mediante la evaluación de videos de los usuarios.
 
-- **Aspectos positivos**: HandTalk es una herramienta educativa útil que facilita la comunicación básica a través de un avatar.
-- **Aspectos negativos**: No permite un aprendizaje fluido en tiempo real con gestos hechos por los usuarios. La traducción se limita al input de texto, lo que restringe su aplicación en situaciones de enseñanza y práctica de señas.
+- **Aspectos positivos**: HandTalk ha sido útil como herramienta de comunicación, facilitando la traducción de texto a señas.
+- **Aspectos negativos**: No permite el aprendizaje activo ni ofrece retroalimentación en tiempo real sobre los gestos realizados por los usuarios, lo que limita su aplicación en la enseñanza del lenguaje de señas.
 
 ---
 
-Este enfoque está orientado a resaltar el aprendizaje de la lengua de señas mediante un sistema accesible y dinámico que permita a los usuarios aprender en tiempo real a través de la detección de gestos.
+Este proyecto busca proporcionar una solución innovadora y accesible para aprender el lenguaje de señas, utilizando videos y análisis en tiempo real para mejorar la experiencia de aprendizaje y la práctica continua.

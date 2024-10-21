@@ -5,6 +5,21 @@
   <img src="img/img_logo.png" alt="Logo del Proyecto" width="200">
 </p>
 
+# Principios de Gestalt del Logo:
+
+- **Proximidad**: Los diferentes elementos del logo (las líneas que representan la mano y la forma de la cámara) están agrupados de manera cercana, lo que hace que el cerebro los perciba como parte de una misma figura.
+
+- **Similitud**: Las líneas que conforman la mano son del mismo color, de esta manera se evita confusión con la cámara.
+
+- **Figura y Fondo**: Se distingue claramente la figura (una cámara sostenida por una mano) del fondo blanco. La cámara y la mano se perciben como un conjunto gracias a los contrastes, resaltando el objeto principal sobre el fondo.
+
+- **Simetría**: Podemos ver una mano en el logo, pese a que solo son líneas, el cerebro reduce la complejidad de la forma para ver una figura más simple.
+
+- **Continuidad**: Las líneas que componen la mano parecen fluir detrás de la cámara de una manera continua. El cerebro sigue estas líneas, lo que da la sensación de que la mano sostiene la cámara.
+
+- **Cierre**: Aunque la forma de la cámara y de la mano no está completamente delineada, el cerebro completa las partes faltantes para reconocer ambas figuras. Esto se debe a que nuestros cerebros tienden a cerrar las formas incompletas.
+
+
 ### Realizado por:
 - Sergio Mena
 - Saul Condori
@@ -13,6 +28,8 @@
 ---
 
 ## Etapa 1: Propuesta del Proyecto
+
+
 
 ### 1. Introducción
 La barrera de comunicación entre personas sordas y oyentes sigue siendo un desafío significativo, ya que muchos oyentes no están familiarizados con el lenguaje de señas. Este proyecto, **Asistente de Traducción de Lengua de Señas con Cámara y Detección de Manos**, busca utilizar la visión computacional para traducir el lenguaje de señas a texto o voz en tiempo real, facilitando la interacción entre personas sordas y oyentes. Usando cámaras y algoritmos de detección de manos, el sistema ofrecerá una solución accesible y sin la necesidad de dispositivos físicos adicionales como guantes inteligentes.

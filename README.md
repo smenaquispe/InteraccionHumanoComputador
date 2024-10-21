@@ -5,7 +5,7 @@
   <img src="img/img_logo.png" alt="Logo del Proyecto" width="200">
 </p>
 
-# Principios de Gestalt del Logo:
+## Principios de Gestalt del Logo:
 
 - **Proximidad**: Los diferentes elementos del logo (las líneas que representan la mano y la forma de la cámara) están agrupados de manera cercana, lo que hace que el cerebro los perciba como parte de una misma figura.
 

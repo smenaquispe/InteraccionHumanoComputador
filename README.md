@@ -2,7 +2,7 @@
 ## SignLearn: Aprende Lengua de Señas a Través de Videos
 
 <p align="center">
-  <img src="img/img_logo.png" alt="Logo del Proyecto" width="200">
+  <img src="img/new_logo.png" alt="Logo del Proyecto" width="200">
 </p>
 
 ## Principios de Gestalt del Logo:

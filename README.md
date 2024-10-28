@@ -15,6 +15,10 @@
 
 - **Figura-fondo:** El diseño crea una clara distinción entre la figura (el elemento central) y el fondo (el espacio blanco). La figura, compuesta por las formas orgánicas y las hojas, se destaca sobre el fondo, lo que facilita su percepción.
 
+- **Simetria:** Percibimos los circulos verdes como hojas, reducimos la complejidad que puede tener la forma al percibirlo de una manera mas coherente con el resto de objetos.
+
+-  **Continuidad:** La disposición de las verduras y hojas sugiere una trayectoria visual ascendente, dando la forma de una planta y resolviendo la ambiguedad que los objetos podrian generar.
+
 ### Realizado por:
 - Sergio Mena
 - Saul Condori

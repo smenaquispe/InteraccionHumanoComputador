@@ -67,7 +67,5 @@ Existen algunos juegos de simulación de huertos y granjas en el mercado que han
 
 4. Jones, C. M., Scholes, L., Johnson, D., Katsikitis, M., & Carras, M. C. (2014). Gaming well: links between videogames and flourishing mental health. *Frontiers in Psychology*, 5:260. doi: 10.3389/fpsyg.2014.00260
 
-5. Dillon, A., Kelly, M., Robertson, I. H., & Robertson, D. A. (2016). Smartphone Applications Utilizing Biofeedback Can Aid Stress Reduction. *Frontiers in Psychology*, 7:832. doi: 10.3389/fpsyg.2016.00832
-
-6. H. Al Osman, H. Dong, and A. El Saddik (2016). Ubiquitous Biofeedback Serious Game for Stress Management. *IEEE Access*, 4, 1274-1286. doi: 10.1109/ACCESS.2016.2548980
+5. Alfonso Águila, Belkis, Calcines Castillo, María, Monteagudo de la Guardia, Roxana, & Nieves Achon, Zaida. (2015). Academic Stress. EDUMECENTRO, 7(2), 163-178. Recuperado en 31 de octubre de 2024, de http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2077-28742015000200013&lng=es&tlng=en.
 

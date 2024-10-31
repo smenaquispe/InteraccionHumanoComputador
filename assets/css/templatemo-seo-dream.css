@@ -1729,7 +1729,6 @@ responsive
   }
 }
 
-
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap");
 
 *,
@@ -1794,6 +1793,15 @@ ul li {
   grid-row: span 2;
   display: grid;
   grid-template-rows: min-content min-content min-content;
+}
+
+ul li::after {
+  content: "";
+  display: block;
+  height: 4px; /* Grosor de la línea */
+  background-color: var(--accent-color); /* Color de la línea */
+  margin-top: 1rem; /* Espacio entre la línea y el contenido */
+  border-radius: 2px; /* Bordes redondeados */
 }
 
 /* date */
@@ -1925,5 +1933,15 @@ ul li .descr::before {
 .credits a {
   color: var(--color);
 }
-
+.timeline-img {
+  width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  border-radius: 8px;
+}
+.default-list {
+  list-style-type: disc; /* Cambia el estilo de lista según prefieras */
+  padding: revert;
+  margin: revert;
+}
 

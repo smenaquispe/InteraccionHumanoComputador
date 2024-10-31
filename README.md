@@ -56,24 +56,6 @@ Existen algunos juegos de simulación de huertos y granjas en el mercado que han
 
 **Relax Garden** se diferencia al enfocarse en una experiencia simple y sin presiones, diseñada específicamente para ofrecer sesiones cortas y accesibles que se ajusten a la vida ocupada de los jugadores.
 
-## 7. Preguntas de Entrevista
-
-- **Estrés Académico**
-  - ¿Qué tan a menudo experimentas estrés debido a tus estudios?
-  - ¿Cuáles son las principales causas de tu estrés académico?
-  - ¿Qué métodos usas actualmente para lidiar con el estrés?
-  - ¿Sientes que el estrés afecta tu rendimiento académico o tu vida personal? ¿Cómo?
-
-- **Familiaridad con Juegos Relajantes**
-  - ¿Conoces o has jugado juegos que promuevan la relajación o el bienestar mental?
-  - ¿Qué opinas de los videojuegos como herramienta para reducir el estrés?
-  - ¿Has probado juegos de simulación de naturaleza? Si es así, ¿qué te gusta o te disgusta de ellos?
-
-- **Preferencias de Diseño y Funcionalidad**
-  - ¿Qué tipo de gráficos y sonidos consideras relajantes?
-  - ¿Te gustaría recibir mensajes motivacionales mientras juegas? ¿Por qué?
-  - ¿Preferirías un juego con interacciones simples y repetitivas o con múltiples opciones y retos?
-
 
 ## Bibliografía
 

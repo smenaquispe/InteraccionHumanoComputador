@@ -32,20 +32,22 @@
 El estrés académico es un desafío común en la vida de jóvenes universitarios, quienes a menudo recurren a los videojuegos para desconectar de sus responsabilidades diarias. **Relax Garden** es un videojuego diseñado para ofrecer un espacio virtual de calma y tranquilidad. Con gráficos suaves y sonidos de la naturaleza, el juego permitirá a los usuarios gestionar un pequeño huerto donde podrán plantar, regar y cuidar de plantas medicinales, como la amapola, tila, hierbaluisa y valeriana. El objetivo es crear una experiencia relajante y gratificante, donde el crecimiento de las plantas brinde una sensación de logro sin generar presión, ayudando a los jugadores a reducir su estrés y disfrutar de un momento de paz en su rutina.
 
 ## 2. Planteamiento del Problema
-El estrés académico es una experiencia común que puede afectar a jóvenes y adultos. Las exigencias diarias, ya sea en el trabajo, la escuela o la vida personal, pueden generar altos niveles de tensión, repercutiendo negativamente en el bienestar mental y emocional. Aunque existen diversas estrategias para manejar el estrés, muchas de ellas requieren tiempo y recursos que no siempre están disponibles.
+El estrés académico es una experiencia común que padecen los alumnos de educación superior, afecta tanto su bienestar emocional como su capacidad para mantener el enfoque y la motivación en sus estudios. La constante presión para alcanzar altos niveles de rendimiento, cumplir con fechas límite y competir en un entorno demandante crea un contexto que, en muchos casos, eleva los niveles de estrés en los estudiantes, causando problemas de concentración, bloqueo mental, depresión y problemas de memoria. Aunque existen diversas estrategias para manejar el estrés, muchas de ellas requieren tiempo y recursos que no siempre están disponibles.
 
 ## 3. Objetivos
-El objetivo del proyecto es desarrollar un videojuego centrado en la gestión de un huerto, diseñado para ayudar a jóvenes y adultos a reducir el estrés y encontrar un espacio de relajación. El juego se basará en actividades simples y repetitivas, como plantar, regar y cosechar, que fomentan una sensación de calma y satisfacción. Con gráficos atractivos y sonidos ambientales envolventes, se creará un ambiente acogedor que permita a los jugadores desconectar de las presiones diarias.
+**Relax Garden** tiene como objetivo proporcionar una herramienta de relajación accesible y efectiva para estudiantes universitarios. El juego busca reducir el estrés académico mediante una experiencia calmante que permita a los jugadores realizar tareas sencillas y gratificantes, como cuidar de un huerto de plantas medicinales. Al fomentar una sensación de logro sin presión, Relax Garden ayuda a los jugadores a liberar tensión y recuperar energía mental para afrontar sus estudios.
 
 ## 4. Público Objetivo
-El público objetivo principal de **Relax Garden** son jóvenes y adultos que buscan una forma accesible y efectiva de reducir el estrés en su vida diaria. Este grupo incluye a personas de diversas profesiones y niveles de educación, quienes podrán beneficiarse de un entorno virtual diseñado específicamente para la relajación. El juego será inclusivo y se adaptará a diferentes niveles de experiencia con videojuegos y habilidades tecnológicas, permitiendo que cualquier jugador, sin importar su conocimiento previo, pueda disfrutar y aprovechar los beneficios de esta experiencia relajante.
+El público objetivo de Relax Garden son estudiantes de primeros años de universidad, quienes suelen enfrentar altos niveles de estrés al adaptarse a las demandas de un nuevo entorno académico y a las exigencias de estudio. Este grupo específico podría beneficiarse de un espacio virtual de relajación que les ayude a sobrellevar las tensiones del inicio de su vida universitaria.
 
 ## 5. Qué Hará el Proyecto
-El proyecto implementará un videojuego de simulación de huerto con las siguientes funcionalidades clave:
-- **Cuidado en tiempo real:** Los jugadores podrán plantar, regar y cuidar de las plantas en su huerto, observando cómo crecen con el tiempo y ajustando sus cuidados según sea necesario.
-- **Interfaz personalizable:** Los usuarios podrán elegir entre distintas configuraciones, como el tipo de plantas que desean cultivar, el tamaño de su huerto y los elementos decorativos que desean añadir para personalizar su espacio de juego.
-- **Integración con dispositivos móviles:** El juego estará disponible en smartphones y tablets, permitiendo a los estudiantes acceder a su huerto en cualquier momento y lugar.
-- **Ambiente relajante y accesible:** El juego contará con gráficos suaves, música ambiental y sonidos naturales para crear una experiencia inmersiva y relajante, sin la necesidad de hardware adicional o controles complejos.
+El proyecto desarrollará un videojuego accesible que permitirá a los usuarios gestionar su propio huerto de plantas medicinales. Relax Garden ofrecerá:
+
+- **Una experiencia de jardinería relajante**, donde el jugador podrá plantar, regar y cosechar distintas plantas, promoviendo una sensación de logro sin presiones.
+- **Estética visual y sonora calmante**, con gráficos suaves y sonidos de la naturaleza que refuerzan el ambiente de tranquilidad.
+- **Interacciones simples y repetitivas**, diseñadas para fomentar un ritmo pausado y reducir el estrés, ayudando al jugador a desconectar de su rutina académica.
+- **Mecánicas de crecimiento de plantas**, donde el progreso gradual del huerto proporcionará satisfacción y motivación en cada sesión de juego.
+- **Mensajes motivacionales e informativos**, que ofrezcan al jugador palabras de aliento y datos sobre los beneficios de cada planta medicinal para relajar el cuerpo.
 
 ## 6. Análisis de Juegos Existentes
 Existen algunos juegos de simulación de huertos y granjas en el mercado que han sido populares, como **Stardew Valley** y **Farm Together**. Sin embargo, presentan limitaciones en términos de simplicidad y accesibilidad.

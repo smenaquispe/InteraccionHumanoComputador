@@ -71,3 +71,6 @@ Existen algunos juegos de simulación de huertos y granjas en el mercado que han
 
 5. Alfonso Águila, Belkis, Calcines Castillo, María, Monteagudo de la Guardia, Roxana, & Nieves Achon, Zaida. (2015). Academic Stress. EDUMECENTRO, 7(2), 163-178. Recuperado en 31 de octubre de 2024, de http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2077-28742015000200013&lng=es&tlng=en.
 
+6. ÁVILA, JAQUELINE. (2014). El estrés un problema de salud del mundo actual. Revista CON-CIENCIA, 2(1), 117-125. Recuperado en 31 de octubre de 2024, de http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2310-02652014000100013&lng=es&tlng=es.
+
+

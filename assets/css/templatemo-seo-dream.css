@@ -1360,7 +1360,7 @@ Services Style
 
 .service-item .icon img {
     width: 38px;
-    height: 38px;
+    /* height: 38px; */
 }
 
 .service-item h4 {

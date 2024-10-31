@@ -69,3 +69,5 @@ Existen algunos juegos de simulación de huertos y granjas en el mercado que han
 
 6. H. Al Osman, H. Dong, and A. El Saddik (2016). Ubiquitous Biofeedback Serious Game for Stress Management. *IEEE Access*, 4, 1274-1286. doi: 10.1109/ACCESS.2016.2548980
 
+7. Alfonso Águila, Belkis, Calcines Castillo, María, Monteagudo de la Guardia, Roxana, & Nieves Achon, Zaida. (2015). Academic Stress. EDUMECENTRO, 7(2), 163-178. Recuperado en 31 de octubre de 2024, de http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2077-28742015000200013&lng=es&tlng=en.
+
